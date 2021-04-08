@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>Login_bg.jfif</file>
+    <file>登录.png</file>
+  </qresource>
+</RCC>
